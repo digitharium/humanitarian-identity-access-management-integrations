@@ -1,3 +1,0 @@
-[submodule "drupaltest"]
-	path = drupaltest
-	url = https://github.com/digitharium/drupaltest.git
