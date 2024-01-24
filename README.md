@@ -2,13 +2,4 @@
 [![License: BSD3](https://img.shields.io/badge/License-BSD3-blue.svg)](https://opensource.org/license/bsd-3-clause/)
 
 ## Introduction
-This repository is a template for all the repositories that will be used at the hackathon 2024 part of the symposium.
-
-## Contributors
-* Contributor 1
-* Contributor 2
-* ...
-
-## Instructions
-This section will highlight the instructions needed for this repository
-
+This repository is a generic repository that includes several other repositories with the aim to create a Humanitarian Identity and Access Management Integration between keycloak and several FOSS tools.
