@@ -1,0 +1,36 @@
+[submodule "hiami-passbolt-keycloak"]
+	path = hiami-passbolt-keycloak
+	url = git@github.com:digitharium/hiami-passbolt-keycloak.git
+[submodule "hiami-ctfd-keycloak"]
+	path = hiami-ctfd-keycloak
+	url = git@github.com:digitharium/hiami-ctfd-keycloak.git
+[submodule "hiami-discourse-keycloak"]
+	path = hiami-discourse-keycloak
+	url = git@github.com:digitharium/hiami-discourse-keycloak.git
+[submodule "hiami-drupal-keycloak"]
+	path = hiami-drupal-keycloak
+	url = git@github.com:digitharium/hiami-drupal-keycloak.git
+[submodule "hiami-synapse-element-keycloak"]
+	path = hiami-synapse-element-keycloak
+	url = git@github.com:digitharium/hiami-synapse-element-keycloak.git
+[submodule "hiami-nextcloud-keycloak"]
+	path = hiami-nextcloud-keycloak
+	url = git@github.com:digitharium/hiami-nextcloud-keycloak.git
+[submodule "hiami-iredmail-keycloak"]
+	path = hiami-iredmail-keycloak
+	url = git@github.com:digitharium/hiami-iredmail-keycloak.git
+[submodule "hiami-mattermost-keycloak"]
+	path = hiami-mattermost-keycloak
+	url = git@github.com:digitharium/hiami-mattermost-keycloak.git
+[submodule "hiami-jitsi-keycloak"]
+	path = hiami-jitsi-keycloak
+	url = git@github.com:digitharium/hiami-jitsi-keycloak.git
+[submodule "hiami-erpnext-keycloak"]
+	path = hiami-erpnext-keycloak
+	url = git@github.com:digitharium/hiami-erpnext-keycloak.git
+[submodule "hiami-forgejo-keycloak"]
+	path = hiami-forgejo-keycloak
+	url = git@github.com:digitharium/hiami-forgejo-keycloak.git
+[submodule "hiami-indico-keycloak"]
+	path = hiami-indico-keycloak
+	url = git@github.com:digitharium/hiami-indico-keycloak.git
