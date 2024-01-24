@@ -1,4 +1,4 @@
-# Template Repository
+# Humanitarian Identity and Access Management Integrations
 [![License: BSD3](https://img.shields.io/badge/License-BSD3-blue.svg)](https://opensource.org/license/bsd-3-clause/)
 
 ## Introduction
