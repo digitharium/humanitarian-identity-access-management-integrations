@@ -8,16 +8,16 @@ This repository is a generic repository that includes several other repositories
 Last Update: Unknown
 |Tool|Local Start|Manual OAuth/OIDC Authentication|+Doc|Manual Authorization|+Doc|Automatic Authentication|Automatic Authorization|CI/CD Pipeline|Production Ready|
 |---|---|---|---|---|---|---|---|---|---|
-|ERPNext | ✅ |  :white_check_mark: | :white_check_mark: | :construction: | :construction: | :construction: | :construction: | :construction: | :construction:|
-|Discourse.org| ✅ | :white_check_mark: | :white_check_mark: | :construction: | :construction: | :construction: | :construction: | :construction: | :construction:|
-|Matrix| ✅ | :white_check_mark: | :white_check_mark: | :construction: | :construction: | :construction: | :construction: | :construction: | :construction:|
-|iRedMail| ❌ | ❌  |
-|CTFd | ✅ | ✅ |
-|Forgejo | ✅ | ✅ |
-|Jitsi| ✅ | ✅  |
-|Indico | ✅ | ✅ |
-|Nextcloud | ✅ | ✅ |
-|Drupal| ✅ | ✅ |
-|Mattermost| ✅  | ✅  |
-|Passbolt| ❌ | ❌ |
-|General DevOps| ✅ | ❌ |
+|ERPNext | :white_check_mark: |  :white_check_mark: | :white_check_mark: | :construction: |
+|Discourse.org| :white_check_mark: | :white_check_mark: | :white_check_mark: | :construction: |
+|Matrix| :white_check_mark: | :white_check_mark: | :white_check_mark: | :construction: |
+|iRedMail| :x: | :x:  | :x:  |
+|CTFd | :white_check_mark: | :white_check_mark: | :white_check_mark: | :construction: |
+|Forgejo | :white_check_mark: | :white_check_mark: | :white_check_mark: | :construction: |
+|Jitsi| :white_check_mark: | :white_check_mark: | :white_check_mark: | :construction: |
+|Indico | :construction: | :construction: | :construction: |
+|Nextcloud | :white_check_mark: | :white_check_mark: | :construction: |
+|Drupal|:white_check_mark: | :white_check_mark: | :white_check_mark: | :construction: |
+|Mattermost| :white_check_mark: | :white_check_mark: | :white_check_mark: | :construction: |
+|Passbolt| :x: | :x: | :x: |
+|General DevOps| :white_check_mark: | :x: |
