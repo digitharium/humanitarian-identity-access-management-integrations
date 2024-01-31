@@ -6,8 +6,8 @@ This repository is a generic repository that includes several other repositories
 
 ## Status of Integrations (List requires updates)
 Last Update: Unknown
-|Tool|Local Start | Manual Local OAuth/OIDC Authentication w/ local Keycloak| Manual Authorization | Automatic Authentication | Automatic Authorization|
-|---|---|---|---|---|---|
+|Tool|Local Start | Manual Local OAuth/OIDC Authentication w/ local Keycloak| Documentation for Manual Authentication| Manual Authorization | Automatic Authentication | Automatic Authorization| CI/CD Pipline | Production Ready|
+|---|---|---|---|---|---|---|---|---|
 |ERPNext | ✅ | ✅ |
 |Discourse.org| ✅ | ❌ |
 |Matrix| ✅ | ✅  |
@@ -20,5 +20,4 @@ Last Update: Unknown
 |Drupal| ✅ | ✅ |
 |Mattermost| ✅  | ✅  |
 |Passbolt| ❌ | ❌ |
-
-|DevOps| ✅ | ❌ |
+|General DevOps| ✅ | ❌ |
