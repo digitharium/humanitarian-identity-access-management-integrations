@@ -6,11 +6,19 @@ This repository is a generic repository that includes several other repositories
 
 ## Status of Integrations (List requires updates)
 Last Update: Unknown
-|Tool|Local Start | Local OAuth/OIDC Login with local Keycloak|
-|---|---|---|
-|Drupal | ✅ | ✅ |
-|Jitsi| ✅ | ✅  |
-|Matrix| ✅ | ✅  |
-|Mattermost| ✅  | ✅  |
+|Tool|Local Start | Manual Local OAuth/OIDC Authentication w/ local Keycloak| Manual Authorization | Automatic Authentication | Automatic Authorization|
+|---|---|---|---|---|---|
+|ERPNext | ✅ | ✅ |
 |Discourse.org| ✅ | ❌ |
-|Drupal| ✅ | ❌ |
+|Matrix| ✅ | ✅  |
+|iRedMail| ❌ | ❌  |
+|CTFd | ✅ | ✅ |
+|Forgejo | ✅ | ✅ |
+|Jitsi| ✅ | ✅  |
+|Indico | ✅ | ✅ |
+|Nextcloud | ✅ | ✅ |
+|Drupal| ✅ | ✅ |
+|Mattermost| ✅  | ✅  |
+|Passbolt| ❌ | ❌ |
+
+|DevOps| ✅ | ❌ |
