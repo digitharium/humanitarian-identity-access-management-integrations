@@ -8,11 +8,11 @@ This repository is a generic repository that includes several other repositories
 Last Update: Unknown
 |Tool|Local Start|Manual OAuth/OIDC Authentication|+Doc|Manual Authorization|+Doc|Automatic Authentication|Automatic Authorization|CI/CD Pipeline|Production Ready|
 |---|---|---|---|---|---|---|---|---|---|
-|ERPNext | :white_check_mark: |  :white_check_mark: | :white_check_mark: | :construction: |
-|Discourse.org| :white_check_mark: | :white_check_mark: | :white_check_mark: | :construction: |
-|Matrix| :white_check_mark: | :white_check_mark: | :white_check_mark: | :construction: |
+|ERPNext | :white_check_mark: |  :white_check_mark: | :white_check_mark: |
+|Discourse.org| :white_check_mark: | :white_check_mark: | :white_check_mark: |
+|Matrix| :white_check_mark: | :white_check_mark: | :white_check_mark: |
 |iRedMail| :x: | :x:  | :x:  |
-|CTFd | :white_check_mark: | :white_check_mark: | :white_check_mark: | :construction: |
+|CTFd | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 |Forgejo | :white_check_mark: | :white_check_mark: | :white_check_mark: | :construction: |
 |Jitsi| :white_check_mark: | :white_check_mark: | :white_check_mark: | :construction: |
 |Indico | :construction: | :construction: | :construction: |
